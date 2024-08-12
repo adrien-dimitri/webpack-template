@@ -40,6 +40,7 @@ The following packages are installed and can be used in this template:
 - HTML Plugin (html-webpack-plugin)
 - CSS Loader
 - Style Loader
+- Babel (with preset-env)
 
 ## License
 
